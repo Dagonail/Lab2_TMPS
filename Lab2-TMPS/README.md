@@ -74,13 +74,11 @@ class Circle implements IMementoCircle{
 }
 ```
 ## 3. Iterator
-![Iterator](https://refactoring.guru/images/patterns/cards/iterator-mini-2x.png)
+![Iterator](https://refactoring.guru/images/patterns/content/iterator/iterator.png)
 
 Итератор — это поведенческий паттерн проектирования, который даёт возможность последовательно обходить элементы составных объектов, не раскрывая их внутреннего представления.
 
 Идея паттерна Итератор состоит в том, чтобы вынести поведение обхода коллекции из самой коллекции в отдельный класс.
-
-![Iterator](https://refactoring.guru/images/patterns/diagrams/iterator/solution1-2x.png)
 
 Иттератор дает нам возможность выполнить реализацию разных проходов по листу 
 
