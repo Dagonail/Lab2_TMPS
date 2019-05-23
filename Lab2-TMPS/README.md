@@ -3,7 +3,7 @@
 *Подготовил - Кушнир Владислав, группа TI-164*
 
 ## 1. Bridge
-![Bridge](https://refactoring.guru/images/patterns/cards/bridge-mini-2x.png)
+![Bridge](https://refactoring.guru/images/patterns/content/bridge/bridge.png)
 
 Мост — это структурный паттерн проектирования, который разделяет один или несколько классов на две отдельные иерархии — абстракцию и реализацию, позволяя изменять их независимо друг от друга.
 
@@ -31,7 +31,7 @@ class Circle {
 }
 ```
 ## 2. Memento
-![Iterator](https://refactoring.guru/images/patterns/cards/memento-mini-2x.png)
+![Iterator](https://refactoring.guru/images/patterns/content/memento/memento.png)
 
 Снимок — это поведенческий паттерн проектирования, который позволяет сохранять и восстанавливать прошлые состояния объектов, не раскрывая подробностей их реализации.
 Пример проблемы, где можно использовать данный паттерн:
@@ -152,7 +152,7 @@ Draw(){
 ```
 
 ## 5. Adapter
-![Adapter](https://refactoring.guru/images/patterns/cards/adapter-mini-2x.png)
+![Adapter](https://refactoring.guru/images/patterns/content/adapter/adapter.png)
 
 Адаптер — это структурный паттерн проектирования, который позволяет объектам с несовместимыми интерфейсами работать вместе.
 
